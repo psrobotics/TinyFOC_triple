@@ -18,7 +18,7 @@ Design file exported with [Autodesk EAGLE](https://www.autodesk.com/products/eag
 * Encoder [AS5600](https://ams.com/en/as5600) or [TLE5012B E1000](https://www.infineon.com/cms/en/product/sensor/magnetic-sensors/magnetic-position-sensors/angle-sensors/tle5012b-e1000/)
 
 ## Pin Out
-<br><img src="pic/pin_out.jpg" width="500"> <br>
+<br><img src="pic/pin_out.jpg" width="800"> <br>
 
 ## License
 MIT License
